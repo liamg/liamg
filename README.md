@@ -1,4 +1,4 @@
-# 👋
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="600" height="600" />
 
 <!--
 **liamg/liamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
