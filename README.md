@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 # Repositories of Note
 
 ## Security/Hacking
