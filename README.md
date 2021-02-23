@@ -9,6 +9,7 @@
 - [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites
 - [pax](https://github.com/liamg/pax) - PKCS7 padding oracle attack tool
 - [furious](https://github.com/liamg/furious) - Lightweight port scanner
+- [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins
 
 ### Terminal
 
