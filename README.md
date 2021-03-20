@@ -25,3 +25,4 @@
 - [raytracing](https://github.com/liamg/raytracing) - Raytracing library (experimental learning project)
 - [magic](https://github.com/liamg/magic) - Detect file type from content in pure Go
 - [gomoon](https://github.com/liamg/gomoon) - A stupid library for calculating moon phase
+- [gifwrap](https://github.com/liamg/gifwrap) - Render gifs in your terminal
