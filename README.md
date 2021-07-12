@@ -29,6 +29,7 @@
 
 ## News
 
+- 12-07-2021 [Why I Joined Aqua](https://blog.aquasec.com/tfsec-acquisition-by-aqua)
 - 12-07-2021 [Aqua Acquires tfsec](https://www.aquasec.com/news/aqua-security-acquires-tfsec/)
 - 20/06/2021 [Console Interview](https://console.substack.com/p/console-58)
 - 28/04/2021 [Intigriti Bug Bytes #120](https://blog.intigriti.com/2021/04/28/bug-bytes-120-macos-pwned-homebrew-rce-the-worlds-shortest-backdoor/)
