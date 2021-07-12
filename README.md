@@ -26,3 +26,10 @@
 - [magic](https://github.com/liamg/magic) - Detect file type from content in pure Go
 - [gomoon](https://github.com/liamg/gomoon) - A stupid library for calculating moon phase
 - [gifwrap](https://github.com/liamg/gifwrap) - Render gifs in your terminal
+
+## News
+
+- 12-07-2021 [Aqua Acquires tfsec](https://www.aquasec.com/news/aqua-security-acquires-tfsec/)
+- 20/06/2021 [Console Interview](https://console.substack.com/p/console-58)
+- 28/04/2021 [Intigriti Bug Bytes #120](https://blog.intigriti.com/2021/04/28/bug-bytes-120-macos-pwned-homebrew-rce-the-worlds-shortest-backdoor/)
+- 19/10/2020 [Gitjacker on ZDNet](https://www.zdnet.com/article/new-gitjacker-tool-lets-you-find-git-folders-exposed-online/)
