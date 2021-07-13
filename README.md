@@ -4,7 +4,7 @@
 
 ### Security/Hacking
 
-- [tfsec](https://github.com/tfsec/tfsec) - A static analysis powered security scanner for Terraform (recommended by ThoughtWorks!)
+- [tfsec](https://github.com/tfsec/tfsec) - A static analysis powered security scanner for Terraform ([acquired by Aqua Security](https://www.aquasec.com/news/aqua-security-acquires-tfsec/))
 - [scout](https://github.com/liamg/scout) - A lightweight web fuzzer with pen-tester friendly bonus features
 - [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites
 - [pax](https://github.com/liamg/pax) - PKCS7 padding oracle attack tool
