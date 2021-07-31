@@ -13,10 +13,10 @@
 
 ### Terminal
 
+- [darktile](https://github.com/liamg/darktile) - An OpenGL terminal emulator for tiling WMs
 - [tml](https://github.com/liamg/tml) - An easy way to format/colour text for the terminal (for both Go and your shell scripts)
 - [flinch](https://github.com/liamg/flinch) - A collection of terminal-based widgets for richer Golang CLI apps
 - [shox](https://github.com/liamg/shox) - A universal, configurable toolbar for your terminal
-- [darktile](https://github.com/liamg/darktile) - An OpenGL terminal emulator for tiling WMs
 - [sunder](https://github.com/liamg/sunder) - Poor mans tmux (under development)
 
 ### Other
