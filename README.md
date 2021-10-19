@@ -19,6 +19,10 @@
 - [shox](https://github.com/liamg/shox) - A universal, configurable toolbar for your terminal
 - [sunder](https://github.com/liamg/sunder) - Poor mans tmux (under development)
 
+### Hardware/Drivers
+
+- [lcd](https://github.com/liamg/lcd) - Drive (non-I2C) LCD devices 
+
 ### Other
 
 - [gca](https://github.com/liamg/gca) - Cellular automata in Go
