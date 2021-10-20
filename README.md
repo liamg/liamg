@@ -31,6 +31,7 @@
 - [gomoon](https://github.com/liamg/gomoon) - A stupid library for calculating moon phase
 - [gifwrap](https://github.com/liamg/gifwrap) - Render gifs in your terminal
 - [lyric](https://github.com/liamg/lyric) - Song lyrics in your terminal
+- [lambo](https://github.com/liamg/lambo) - Test your API gateway routed lambdas locally and in CI 
 
 ## News
 
