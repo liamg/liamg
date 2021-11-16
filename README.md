@@ -10,6 +10,7 @@
 - [pax](https://github.com/liamg/pax) - PKCS7 padding oracle attack tool
 - [furious](https://github.com/liamg/furious) - Lightweight port scanner
 - [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins
+- [memit](https://github.com/liamg/memit) - Run binaries from memory in Linux
 
 ### Terminal
 
