@@ -11,6 +11,7 @@
 - [furious](https://github.com/liamg/furious) - Lightweight port scanner
 - [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins
 - [memit](https://github.com/liamg/memit) - Run binaries from memory in Linux
+- [extrude](https://github.com/liamg/extrude) - Analyse binaries for missing security features, information disclosure and more... 
 
 ### Terminal
 
