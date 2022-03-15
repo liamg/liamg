@@ -1,44 +1,27 @@
-![?](https://pbs.twimg.com/profile_banners/20086051/1632318173/1500x500)
+![os](https://user-images.githubusercontent.com/1187060/158480201-95883618-7766-4922-ba84-a332b826767b.gif)
+[![Follow on Twitter](https://img.shields.io/twitter/url/https/twitter.com/liam_galvin.svg?style=social&label=Follow%20%40liam_galvin)](https://twitter.com/liam_galvin)
 
-## Repositories of Note
+## Popular Repositories
+<table>
+<tr><td><a href="https://github.com/liamg/traitor">traitor</a></td><td>:arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock</td><td align="center" width="12%">4630 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/darktile">darktile</a></td><td>:waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers. </td><td align="center" width="12%">2693 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/gitjacker">gitjacker</a></td><td>🔪 :octocat: Leak git repositories from misconfigured websites</td><td align="center" width="12%">1374 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/tml">tml</a></td><td>:rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!</td><td align="center" width="12%">673 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/shox">shox</a></td><td>🍫 A customisable, universally compatible terminal status bar</td><td align="center" width="12%">668 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/furious">furious</a></td><td>Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification</td><td align="center" width="12%">418 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/scout">scout</a></td><td>🔭 Lightweight URL fuzzer and spider: Discover a web server's undisclosed files, directories and VHOSTs</td><td align="center" width="12%">302 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/memit">memit</a></td><td>Run binaries straight from memory in Linux :no_entry_sign::floppy_disk: </td><td align="center" width="12%">198 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/pax">pax</a></td><td>:skull: :unlock: CLI tool for PKCS7 padding oracle attacks</td><td align="center" width="12%">110 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/bearings">bearings</a></td><td>:compass: A fast, clean, customisable shell prompt for zsh, bash, fish, and more...</td><td align="center" width="12%">40 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/extrude">extrude</a></td><td>:detective: Analyse binaries for missing security features, information disclosure and more...</td><td align="center" width="12%">36 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/gifwrap">gifwrap</a></td><td>GIFs in your terminal</td><td align="center" width="12%">34 :star:</td></tr>
+</table>
 
-### Security/Hacking
+## Latest Posts
 
-- [tfsec](https://github.com/tfsec/tfsec) - A static analysis powered security scanner for Terraform ([acquired by Aqua Security](https://www.aquasec.com/news/aqua-security-acquires-tfsec/))
-- [scout](https://github.com/liamg/scout) - A lightweight web fuzzer with pen-tester friendly bonus features
-- [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites
-- [pax](https://github.com/liamg/pax) - PKCS7 padding oracle attack tool
-- [furious](https://github.com/liamg/furious) - Lightweight port scanner
-- [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins
-- [memit](https://github.com/liamg/memit) - Run binaries from memory in Linux
-- [extrude](https://github.com/liamg/extrude) - Analyse binaries for missing security features, information disclosure and more... 
+ - Wed, 09 Mar 2022 [Escalating Privileges with Dirty Pipe (CVE-2022-0847)](https://www.liam-galvin.co.uk/security/2022/03/09/dirty-pipe-lpe.html)
+ - Wed, 19 May 2021 [Configuring Google Authenticator on Ubiquity EdgeOS OpenVPN](https://www.liam-galvin.co.uk/security/2021/05/19/configuring-2fa-using-google-authenticator-on-ubiquity-edgeos-openvpn.html)
+ - Sun, 28 Mar 2021 [Write-up: Intigriti March 2021 XSS Challenge](https://www.liam-galvin.co.uk/security/2021/03/28/intigriti-0321-xss-challenge-write-up.html)
+ - Sun, 31 Jan 2021 [Write-up: Intigriti January 2021 XSS Challenge](https://www.liam-galvin.co.uk/security/2021/01/31/intigriti-0121-xss-challenge-write-up.html)
 
-### Terminal
-
-- [darktile](https://github.com/liamg/darktile) - An OpenGL terminal emulator for tiling WMs
-- [tml](https://github.com/liamg/tml) - An easy way to format/colour text for the terminal (for both Go and your shell scripts)
-- [flinch](https://github.com/liamg/flinch) - A collection of terminal-based widgets for richer Golang CLI apps
-- [shox](https://github.com/liamg/shox) - A universal, configurable toolbar for your terminal
-- [sunder](https://github.com/liamg/sunder) - Poor mans tmux (under development)
-
-### Hardware/Drivers
-
-- [lcd](https://github.com/liamg/lcd) - Drive (non-I2C) LCD devices 
-
-### Other
-
-- [gca](https://github.com/liamg/gca) - Cellular automata in Go
-- [raytracing](https://github.com/liamg/raytracing) - Raytracing library (experimental learning project)
-- [magic](https://github.com/liamg/magic) - Detect file type from content in pure Go
-- [gomoon](https://github.com/liamg/gomoon) - A stupid library for calculating moon phase
-- [gifwrap](https://github.com/liamg/gifwrap) - Render gifs in your terminal
-- [lyric](https://github.com/liamg/lyric) - Song lyrics in your terminal
-- [lambo](https://github.com/liamg/lambo) - Test your API gateway routed lambdas locally and in CI 
-
-## News
-
-- 12-07-2021 [Why I Joined Aqua](https://blog.aquasec.com/tfsec-acquisition-by-aqua)
-- 12-07-2021 [Aqua Acquires tfsec](https://www.aquasec.com/news/aqua-security-acquires-tfsec/)
-- 20/06/2021 [Console Interview](https://console.substack.com/p/console-58)
-- 28/04/2021 [Intigriti Bug Bytes #120](https://blog.intigriti.com/2021/04/28/bug-bytes-120-macos-pwned-homebrew-rce-the-worlds-shortest-backdoor/)
-- 19/10/2020 [Gitjacker on ZDNet](https://www.zdnet.com/article/new-gitjacker-tool-lets-you-find-git-folders-exposed-online/)
+<sub><i>Automatically generated by [visitor/github-profile-magic-action](https://github.com/visitor/github-profile-magic-action) at Tue, 15 Mar 2022 22:03:49 GMT</i></sub>
