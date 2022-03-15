@@ -1,4 +1,4 @@
-![os](https://user-images.githubusercontent.com/1187060/158480201-95883618-7766-4922-ba84-a332b826767b.gif)
+![os](https://user-images.githubusercontent.com/1187060/158480472-5fbb3fa1-16c6-4085-ad6c-151bd04d965f.gif)
 [![Follow on Twitter](https://img.shields.io/twitter/url/https/twitter.com/liam_galvin.svg?style=social&label=Follow%20%40liam_galvin)](https://twitter.com/liam_galvin)
 
 ## Popular Repositories
