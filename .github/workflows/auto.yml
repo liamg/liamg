@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@master
     - uses: liamg/github-profile-terminal-action@main
       with:
         feed_url: https://www.liam-galvin.co.uk/feed.xml
