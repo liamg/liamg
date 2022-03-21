@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: liamg/github-terminal-profile-action
+    - uses: liamg/github-profile-terminal-action@main
       with:
         feed_url: https://www.liam-galvin.co.uk/feed.xml
         twitter_username: liam_galvin
