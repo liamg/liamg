@@ -1,0 +1,20 @@
+name: auto-update
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  0 23 * * *
+
+jobs:
+  build:
+    name: auto update
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: liamg/github-terminal-profile-action
+      with:
+        feed_url: https://www.liam-galvin.co.uk/feed.xml
+        twitter_username: liam_galvin
+        theme: dark
