@@ -14,7 +14,7 @@ jobs:
     - uses: actions/checkout@master
     - uses: liamg/github-profile-terminal-action@main
       with:
-        feed_url: https://www.liam-galvin.co.uk/feed.xml
+        feed_url: https://lia.mg/feed.xml
         twitter_username: liam_galvin
         theme: dark
         token: ${{ secrets. GITHUB_TOKEN }}
