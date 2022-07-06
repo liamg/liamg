@@ -5,21 +5,21 @@
 
 ## Popular Repositories
 <table>
-<tr><td><a href="https://github.com/liamg/qunit">qunit</a></td><td>An easy-to-use JavaScript Unit Testing framework.</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/cobra">cobra</a></td><td>A Commander for modern Go CLI interactions</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/contributing-template">contributing-template</a></td><td>Template for writing your own contributing guide</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/Behat">Behat</a></td><td>BDD framework for PHP 5.3+</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/trivy">trivy</a></td><td>Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/docker-compose-bash">docker-compose-bash</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/docker-chrome">docker-chrome</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/docker-netacuity-packager">docker-netacuity-packager</a></td><td>docker images that contain the effing package manager</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/-">-</a></td><td>Testing 3rd party services, ignore.</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/github-issue-templates">github-issue-templates</a></td><td>:symbols: A collection of GitHub issue and pull request templates</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/chain-bench">chain-bench</a></td><td>Chain-bench is an open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/docker-rsync">docker-rsync</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/docker-hugo">docker-hugo</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/epsilon-build">epsilon-build</a></td><td>Nothing to see here.</td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/docker-golang-opengl">docker-golang-opengl</a></td><td>Docker image for Golang OpenGL applciations</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/traitor">traitor</a></td><td>:arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock</td><td align="center" width="12%">5254 :star:</td></tr>
+<tr><td><a href="https://github.com/aquasecurity/tfsec">tfsec</a></td><td>:earth_americas: Security scanner for your Terraform code. _Acquired by @aquasec in 2021._</td><td align="center" width="12%">4701 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/darktile">darktile</a></td><td>:waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers. </td><td align="center" width="12%">2758 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/gitjacker">gitjacker</a></td><td>🔪 :octocat: Leak git repositories from misconfigured websites</td><td align="center" width="12%">1417 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/tml">tml</a></td><td>:rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!</td><td align="center" width="12%">680 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/shox">shox</a></td><td>🍫 A customisable, universally compatible terminal status bar</td><td align="center" width="12%">673 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/furious">furious</a></td><td>:angry: Go IP/port scanner with SYN (stealth) scanning and device manufacturer identification</td><td align="center" width="12%">467 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/scout">scout</a></td><td>🔭 Lightweight URL fuzzer and spider: Discover a web server's undisclosed files, directories and VHOSTs</td><td align="center" width="12%">373 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/memit">memit</a></td><td>:no_entry_sign::floppy_disk: Run binaries straight from memory in Linux</td><td align="center" width="12%">230 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/dismember">dismember</a></td><td>:knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.</td><td align="center" width="12%">227 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/bearings">bearings</a></td><td>:compass: A fast, clean, customisable shell prompt for zsh, bash, fish, and more...</td><td align="center" width="12%">168 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/pax">pax</a></td><td>:skull: :unlock: CLI tool for PKCS7 padding oracle attacks</td><td align="center" width="12%">117 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/comet">comet</a></td><td>:comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)</td><td align="center" width="12%">90 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/extrude">extrude</a></td><td>:detective: Analyse binaries for missing security features, information disclosure and more...</td><td align="center" width="12%">43 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/gifwrap">gifwrap</a></td><td>:octopus: GIFs in your terminal</td><td align="center" width="12%">37 :star:</td></tr>
 </table>
 
 ## Latest Posts
@@ -29,4 +29,4 @@
  - Wed, 09 Mar 2022 [Escalating Privileges with Dirty Pipe (CVE-2022-0847)](https://lia.mg/posts/dirty-pipe-lpe/)
  - Wed, 19 May 2021 [Configuring Google Authenticator on Ubiquity EdgeOS OpenVPN](https://lia.mg/posts/configuring-2fa-using-google-authenticator-on-ubiquity-edgeos-openvpn/)
 
-<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Wed, 06 Jul 2022 13:53:34 UTC</i></sub>
+<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Wed, 06 Jul 2022 13:55:57 UTC</i></sub>
