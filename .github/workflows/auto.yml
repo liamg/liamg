@@ -18,3 +18,5 @@ jobs:
         twitter_username: liam_galvin
         theme: dark
         token: ${{ secrets. GITHUB_TOKEN }}
+        extra_repo: aquasecurity/tfsec
+        extra_repo_description: ":earth_americas: Security scanner for your Terraform code. _Acquired by @aquasec in 2021._"
