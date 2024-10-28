@@ -6,22 +6,22 @@
 ## Popular Repositories
 <table>
 <tr><td><a href="https://github.com/aquasecurity/tfsec">tfsec</a></td><td>:earth_americas: Security scanner for your Terraform code. <i><a href='https://www.aquasec.com/news/aqua-security-acquires-tfsec/'>Acquired by Aqua Security in 2021.</a></i></td><td align="center" width="12%">6696 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/traitor">traitor</a></td><td>:arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock</td><td align="center" width="12%">6652 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/traitor">traitor</a></td><td>:arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock</td><td align="center" width="12%">6653 :star:</td></tr>
 <tr><td><a href="https://github.com/liamg/darktile">darktile</a></td><td>:waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers. </td><td align="center" width="12%">3043 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/gitjacker">gitjacker</a></td><td>🔪 :octocat: Leak git repositories from misconfigured websites</td><td align="center" width="12%">1546 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/gitjacker">gitjacker</a></td><td>🔪 :octocat: Leak git repositories from misconfigured websites</td><td align="center" width="12%">1547 :star:</td></tr>
 <tr><td><a href="https://github.com/liamg/tml">tml</a></td><td>:rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!</td><td align="center" width="12%">736 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/shox">shox</a></td><td>🍫 A customisable, universally compatible terminal status bar</td><td align="center" width="12%">714 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/dismember">dismember</a></td><td>:knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.</td><td align="center" width="12%">605 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/furious">furious</a></td><td>:angry: Go IP/port scanner with SYN (stealth) scanning and device manufacturer identification</td><td align="center" width="12%">582 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/scout">scout</a></td><td>🔭 Lightweight URL fuzzer and spider: Discover a web server's undisclosed files, directories and VHOSTs</td><td align="center" width="12%">540 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/shox">shox</a></td><td>🍫 A customisable, universally compatible terminal status bar</td><td align="center" width="12%">715 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/dismember">dismember</a></td><td>:knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.</td><td align="center" width="12%">606 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/furious">furious</a></td><td>:angry: Go IP/port scanner with SYN (stealth) scanning and device manufacturer identification</td><td align="center" width="12%">583 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/scout">scout</a></td><td>🔭 Lightweight URL fuzzer and spider: Discover a web server's undisclosed files, directories and VHOSTs</td><td align="center" width="12%">541 :star:</td></tr>
 <tr><td><a href="https://github.com/liamg/memit">memit</a></td><td>:no_entry_sign::floppy_disk: Run binaries straight from memory in Linux</td><td align="center" width="12%">309 :star:</td></tr>
 <tr><td><a href="https://github.com/liamg/grace">grace</a></td><td>:screwdriver: It's strace, with colours.</td><td align="center" width="12%">263 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/bearings">bearings</a></td><td>:compass: A fast, clean, customisable shell prompt for zsh, bash, fish, and more...</td><td align="center" width="12%">198 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/siphon">siphon</a></td><td>:alembic: Intercept stdin/stdout/stderr for any process</td><td align="center" width="12%">193 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/bearings">bearings</a></td><td>:compass: A fast, clean, customisable shell prompt for zsh, bash, fish, and more...</td><td align="center" width="12%">199 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/siphon">siphon</a></td><td>:alembic: Intercept stdin/stdout/stderr for any process</td><td align="center" width="12%">194 :star:</td></tr>
 <tr><td><a href="https://github.com/liamg/pax">pax</a></td><td>:skull: :unlock: CLI tool for PKCS7 padding oracle attacks</td><td align="center" width="12%">133 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/comet">comet</a></td><td>:comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)</td><td align="center" width="12%">116 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/memoryfs">memoryfs</a></td><td>:brain: :file_cabinet: In-memory filesystem implementation of io/fs.FS</td><td align="center" width="12%">87 :star:</td></tr>
-<tr><td><a href="https://github.com/liamg/extrude">extrude</a></td><td>:detective: Analyse binaries for missing security features, information disclosure and more...</td><td align="center" width="12%">85 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/comet">comet</a></td><td>:comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)</td><td align="center" width="12%">117 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/memoryfs">memoryfs</a></td><td>:brain: :file_cabinet: In-memory filesystem implementation of io/fs.FS</td><td align="center" width="12%">88 :star:</td></tr>
+<tr><td><a href="https://github.com/liamg/extrude">extrude</a></td><td>:detective: Analyse binaries for missing security features, information disclosure and more...</td><td align="center" width="12%">86 :star:</td></tr>
 <tr><td><a href="https://github.com/liamg/gifwrap">gifwrap</a></td><td>:octopus: GIFs in your terminal</td><td align="center" width="12%">54 :star:</td></tr>
 </table>
 
@@ -32,4 +32,4 @@
  - Thu, 11 Aug 2022 [Writing Go Linters](https://lia.mg/posts/writing-go-linters/)
  - Sun, 31 Jul 2022 [Write-up: Intigriti 0722 (July 2022) XSS Challenge](https://lia.mg/posts/intigriti-0722/)
 
-<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Sun, 27 Oct 2024 21:03:28 UTC</i></sub>
+<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Mon, 28 Oct 2024 01:31:06 UTC</i></sub>
